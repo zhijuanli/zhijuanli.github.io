@@ -4,32 +4,20 @@
 
 ### 发表论文
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Jing Zhao, Hao Zhou, Yanbin Wang, Hualin Lu, Zhijuan Li, and Xiaomin Ma: Accelerating Interference-based QoS Analysis of Vehicular Ad Hoc Networks for BSM Safety Applications: Parallel Numerical Solutions and Simulations [C], Proc. VEHITS, Apr. 2021, pp. 600-610.
 
-```markdown
-Syntax highlighted code block
+2. Jing Zhao, Yanbin Wang, Hualin Lu, Zhijuan Li, and Xiaomin Ma: Interference-Based QoS and Capacity Analysis of VANETs for Safety Applications [J]. IEEE Transactions on Vehicular Technology, vol. 70, no. 3, pp. 2448-2464, March 2021.
 
-# Header 1
-## Header 2
-### Header 3
+3. Xiaomin Ma, Jing Zhao, Yanbin Wang, Tingyu Zhang, and Zhijuan Li: A New Approach to SINR-based Reliability Analysis of IEEE 802.11 Broadcast Ad Hoc Networks [J]. IEEE communication letters, 2020: 1-1.
 
-- Bulleted
-- List
+4. Yanbin Wang, Zhuofei Wu, Jing Zhao, Zhijuan Li, and Xiaomin Ma: Analysis and Adaptive Optimization of Vehicular Safety Message Communications at Intersections[J]. Ad Hoc Networks, 107, 2020: 1-16.
 
-1. Numbered
-2. List
+5. Jing Zhao, Zhijuan Li, Yanbin Wang, Zhuofei Wu, Xiaomin Ma, and Yue Zhao: An analytical framework for reliability evaluation of d-dimensional IEEE 802.11 broadcast wireless networks[J]. Wireless Networks, 26, 2020: 3373-3394.
 
-**Bold** and _Italic_ and `Code` text
+### 专利
+1. 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhijuanhao/lizhijuan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### 联系
 
-Email: lizhijuan
+Email: lizhijuan@hrbeu.edu.cn
