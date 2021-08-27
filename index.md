@@ -9,7 +9,8 @@
 3. Xiaomin Ma, Jing Zhao, Yanbin Wang, Tingyu Zhang, and **Zhijuan Li**: A New Approach to SINR-based Reliability Analysis of IEEE 802.11 Broadcast Ad Hoc Networks [J]. IEEE communication letters, 2020: 1-1.
 4. Yanbin Wang, Zhuofei Wu, Jing Zhao, **Zhijuan Li**, and Xiaomin Ma: Analysis and Adaptive Optimization of Vehicular Safety Message Communications at Intersections[J]. Ad Hoc Networks, 107, 2020: 1-16.
 5. Jing Zhao, **Zhijuan Li**, Yanbin Wang, Zhuofei Wu, Xiaomin Ma, and Yue Zhao: An analytical framework for reliability evaluation of d-dimensional IEEE 802.11 broadcast wireless networks[J]. Wireless Networks, 26, 2020: 3373-3394.
-6. Wei Wu, **Zhijuan Li**, Yunan Zhang, Jianli Guo, and Jing Zhao:Design and Implementation of Distributed Broadcast Algorithm Based on Vehicle Density for VANET Safety-Related Messages[C].International Conference of Pioneering Computer Scientists, Engineers and Educators. Springer Singapore, 2017：271-285
+6. **李志娟**,吴卓霏,王思家,赵靖.基于数据分析的云监控系统[J].指挥信息系统与技术,2018,9(06):30-35.
+7. Wei Wu, **Zhijuan Li***, Yunan Zhang, Jianli Guo, and Jing Zhao:Design and Implementation of Distributed Broadcast Algorithm Based on Vehicle Density for VANET Safety-Related Messages[C].International Conference of Pioneering Computer Scientists, Engineers and Educators. Springer Singapore, 2017：271-285
 
 ### 授权专利
 1. 赵靖,**李志娟**,王延斌. 一种基于信噪干扰比的车载网可靠性分析方法[P]. 辽宁省：ZL2019112259378,2021-07-16.
