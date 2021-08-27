@@ -1,8 +1,6 @@
-## 李志娟
+## Zhijuan Li
 
-You can use the [editor on GitHub](https://github.com/zhijuanhao/lizhijuan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+研究IEEE 802.11 无线网络的可靠性，车联网的可靠性，车联网的仿真，随机几何无线网络分析。
 
 ### 发表论文
 
@@ -32,6 +30,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhijuanhao/lizhijuan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 联系
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email: lizhijuan
