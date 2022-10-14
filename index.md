@@ -5,7 +5,7 @@
 ### 发表论文
 1.**Zhijuan Li**, Yanbin Wang, Jing Zhao. Reliability Evaluation of IEEE 802.11p Broadcast Ad Hoc Networks on the Highway[J]. IEEE Transactions on Vehicular Technology, 2022, 71(7): 7428-7444. 
 2. Jing Zhao, Hao Zhou, Yanbin Wang, Hualin Lu, **Zhijuan Li**, and Xiaomin Ma: Accelerating Interference-based QoS Analysis of Vehicular Ad Hoc Networks for BSM Safety Applications: Parallel Numerical Solutions and Simulations [C], Proc. VEHITS, Apr. 2021, pp. 600-610.
-3. Jing Zhao, Yanbin Wang, Hualin Lu, **Zhijuan Li**, and Xiaomin Ma: Interference-Based QoS and Capacity Analysis of VANETs for Safety Applications [J]. IEEE Transactions on Vehicular Technology, vol. 70, no. 3, pp. 2448-2464, March 2021.
+3. Jing Zhao, Yanbin Wang, Hualin Lu, **Zhijuan Li**, and Xiaomin Ma: Interference-Based QoS and Capacity Analysis of VANETs for Safety Applications [J]. IEEE Transactions on Vehicular Technology, 2021, 70(3):2448-2464.
 4. Xiaomin Ma, Jing Zhao, Yanbin Wang, Tingyu Zhang, and **Zhijuan Li**: A New Approach to SINR-based Reliability Analysis of IEEE 802.11 Broadcast Ad Hoc Networks [J]. IEEE communication letters, 2020, 25(2): 651-655.
 5. Yanbin Wang, Zhuofei Wu, Jing Zhao, **Zhijuan Li**, and Xiaomin Ma: Analysis and Adaptive Optimization of Vehicular Safety Message Communications at Intersections[J]. Ad Hoc Networks, 107, 2020: 1-16.
 6. Jing Zhao, **Zhijuan Li**, Yanbin Wang, Zhuofei Wu, Xiaomin Ma, and Yue Zhao: An analytical framework for reliability evaluation of d-dimensional IEEE 802.11 broadcast wireless networks[J]. Wireless Networks, 26, 2020: 3373-3394.
