@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .lang-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            padding: 8px 15px;
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            cursor: pointer;
+            z-index: 1000;
+        }
+        .lang-toggle:hover {
+            background-color: #e0e0e0;
+        }
+        .content {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .chinese { display: block; }
+        .english { display: none; }
+        h2 { margin-top: 30px; border-bottom: 1px solid #eee; padding-bottom: 5px; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 8px; }
+    </style>
+</head>
+<body>
+    <button class="lang-toggle" onclick="toggleLanguage()">English/中文</button>
+
+    <div class="content">
+        <!-- Chinese Version -->
+        <div class="chinese" id="chinese">
+            <h1>李志娟</h1>
+            
+            <h2>简介</h2>
+            <p>李志娟，黑龙江大学计算机科学技术学院、软件学院，博士，讲师，硕士生导师。哈尔滨工程大学计算机科学与技术专业博士，在站博士后。</p>
+            <p>研究方向包括新抗原预测、免疫抑制剂预后预测、交通流量预测、车联通信协议设计分析等。</p>
+            <p>已在TVT、Wireless Networks、Ad Hoc Networks、VEHITS等国内外著名期刊和国际会议上发表学术论文多篇，其中SCI检索7篇。授权国家发明专利7项，软件著作权2项。</p>
+            <p>主持黑龙江省省属高校基本科研业务费项目1项、黑龙江省博士后科研工作站人才引进项目1项、黑龙江大学校级重点课题1项；参与黑龙江大学校级培育课题1项；参与完成国家自然科学基金1项，预研重点子课题2项。</p>
+            <p>指导学生获2024年中国国际大学生创新大赛省级金奖、"挑战杯"竞赛省级金奖；指导本科、研究生获国家级、省级创新创业类项目立项2项；获优秀指导教师称号。</p>
+            
+            <h2>主讲课程</h2>
+            <p>本科生课：《无线传感器网络》</p>
+            <p>研究生课：《高等计算机网络》</p>
+            
+            <h2>主持项目</h2>
+            <p>作为项目负责人，主持黑龙江省高校基本科研项目1项，</p>
+            <p>2024.01-2025.12 基于信干噪比随机几何的车载自组网性能分析优化研究</p>
+            
+            <h2>发表论文</h2>
+            <ol>
+                <li><strong>李志娟</strong>, 吴昕桐, 李晓坤, 马晓敏. Interference-based Reliability and Capacity Analysis for IEEE 802.11 Broadcast Ad-Hoc Networks on the Highway[C]. Proc. VEHITS, Apr. 2025, pp. 520-528.</li>
+                <li><strong>李志娟</strong>, 王延斌, 赵靖. Reliability Evaluation of IEEE 802.11p Broadcast Ad Hoc Networks on the Highway[J]. IEEE Transactions on Vehicular Technology, 2022, 71(7): 7428-7444.</li>
+                <li>赵靖, 周浩, 王延斌, 卢华琳, <strong>李志娟</strong>, 马晓敏. Accelerating Interference-based QoS Analysis of Vehicular Ad Hoc Networks for BSM Safety Applications: Parallel Numerical Solutions and Simulations [C], Proc. VEHITS, Apr. 2021, pp. 600-610.</li>
+                <li>赵靖, 王延斌, 卢华琳, <strong>李志娟</strong>, 马晓敏. Interference-Based QoS and Capacity Analysis of VANETs for Safety Applications [J]. IEEE Transactions on Vehicular Technology, 2021, 70(3):2448-2464.</li>
+                <li>马晓敏, 赵靖, 王延斌, 张庭瑜, <strong>李志娟</strong>. A New Approach to SINR-based Reliability Analysis of IEEE 802.11 Broadcast Ad Hoc Networks [J]. IEEE communication letters, 2020, 25(2): 651-655.</li>
+                <li>王延斌, 吴卓霏, 赵靖, <strong>李志娟</strong>, 马晓敏. Analysis and Adaptive Optimization of Vehicular Safety Message Communications at Intersections[J]. Ad Hoc Networks, 107, 2020: 1-16.</li>
+                <li>赵靖, <strong>李志娟</strong>, 王延斌, 吴卓霏, 马晓敏, 赵越. An analytical framework for reliability evaluation of d-dimensional IEEE 802.11 broadcast wireless networks[J]. Wireless Networks, 26, 2020: 3373-3394.</li>
+                <li><strong>李志娟</strong>, 吴卓霏, 王思家, 赵靖. 基于数据分析的云监控系统[J]. 指挥信息系统与技术,2018,9(06):30-35.</li>
+                <li>吴伟, <strong>李志娟</strong>*, 张玉楠, 郭建立, 赵靖. Design and Implementation of Distributed Broadcast Algorithm Based on Vehicle Density for VANET Safety-Related Messages[C]. International Conference of Pioneering Computer Scientists, Engineers and Educators. Springer Singapore, 2017:271-285</li>
+            </ol>
+            
+            <h2>授权专利</h2>
+            <ol>
+                <li><strong>李志娟</strong>, 李国鸿, 张斯栋, 张慧冉, 吴卓霏, 刘勇. 一种基于感知消息广播和概率推导的车辆密度估计方法[P]. ZL202411496141.7, 2025-02-18.</li>
+                <li>赵靖, <strong>李志娟</strong>, 王延斌. 一种基于信噪干扰比的车载网可靠性分析方法[P]. ZL2019112259378,2021-07-16.</li>
+                <li>吴卓霏, 赵靖, <strong>李志娟</strong>. 一种基于目的地状态的车辆导航系统和导航方法[P]. ZL201810870234X,2020-12-22.</li>
+                <li>赵靖, 杨金涛, <strong>李志娟</strong>. 一种车载OBU的数据竞争检测方法[P]. ZL202010020788.8,2022-11-18.</li>
+                <li>赵靖, 王延斌, <strong>李志娟</strong>. 一种基于雾计算的针对车辆的流式监测分析预警系统与方法[P]. ZL2018107996562,2019-10-11.</li>
+                <li>赵靖, 王延斌, 靳瑜亮, <strong>李志娟</strong>, 杨武, 王慧强. 一种软件加速生命测试方法[P]. ZL2013102893995, 2017-06-20.</li>
+                <li>赵靖, 董天冉, 王延斌, <strong>李志娟</strong>. 基于组合变异的SQL注入测试用例生成方法[P]. ZL202010029005.2,2022-11-18.</li>
+            </ol>
+            
+            <h2>申请专利</h2>
+            <ol>
+                <li><strong>李志娟</strong>, 刘勇, 李晓坤. 一种基于随机几何建模的针对一维IEEE 802.11p/bd车载网的可靠性分析方法[P]. CN116669087A, 2023-08-29.</li>
+                <li>赵靖, 崔佩佩, <strong>李志娟</strong>, 孙丽群. 车辆行驶的控制方法、终端以及计算机可读存储介质[P]. CN202011252196.5, 2020-11-11.</li>
+                <li>赵靖, 吴卓霏, 王延斌, <strong>李志娟</strong>, 马晨瑞, 李汀榕, 唐彦昭. 一种基于MQTT的暖气温度自动调节方法及系统[P]. CN109340886A,2019-02-15.</li>
+            </ol>
+            
+            <h2>指导获奖</h2>
+            <ol>
+                <li>指导学生参加"建行杯"中国国际大学生创新大赛(2024)，《纳精靶向—基于脂质纳米颗粒的小分子靶向药物递送系统》获省级金奖。</li>
+                <li>指导学生参加第十四届工银融e行"挑战杯"黑龙江省大学生创业计划竞赛(2024)，《基于大模型驱动高数值孔径EUV光刻机控制系统》获省级金奖。</li>
+            </ol>
+            
+            <h2>荣誉称号</h2>
+            <ol>
+                <li>第十四届工银融e行"挑战杯"黑龙江省大学生创业计划竞赛优秀指导教师。</li>
+            </ol>
+            
+            <h2>联系方式</h2>
+            <p>Email: lizhijuan@hrbeu.edu.cn; lizhijuan@hlju.edu.cn</p>
+        </div>
+
+        <!-- English Version -->
+        <div class="english" id="english">
+            <h1>Zhijuan Li</h1>
+            
+            <h2>Profile</h2>
+            <p>Zhijuan Li, Ph.D., Lecturer, Master's Supervisor at School of Computer Science and Technology & School of Software, Heilongjiang University. Ph.D. in Computer Science and Technology from Harbin Engineering University, currently a postdoctoral researcher.</p>
+            <p>Research interests include neoantigen prediction, immunosuppressant prognosis prediction, traffic flow prediction, vehicular communication protocol design and analysis, etc.</p>
+            <p>Published multiple academic papers in renowned domestic and international journals and conferences including TVT, Wireless Networks, Ad Hoc Networks, and VEHITS, with 7 SCI-indexed papers. Authorized 7 national invention patents and 2 software copyrights.</p>
+            <p>Principal investigator of 1 Heilongjiang Provincial Basic Research Project for Provincial Universities, 1 Heilongjiang Postdoctoral Research Station Talent Introduction Project, and 1 Heilongjiang University Key Project. Participated in 1 Heilongjiang University Cultivation Project, 1 completed National Natural Science Foundation project, and 2 pre-research key sub-projects.</p>
+            <p>Supervised students to win provincial gold awards in 2024 China International College Students' Innovation Competition and "Challenge Cup" competition. Guided undergraduate and graduate students to obtain 2 national/provincial innovation and entrepreneurship projects. Received Outstanding Instructor title.</p>
+            
+            <h2>Courses</h2>
+            <p>Undergraduate: "Wireless Sensor Networks"</p>
+            <p>Graduate: "Advanced Computer Networks"</p>
+            
+            <h2>Research Projects</h2>
+            <p>As principal investigator, leading 1 Heilongjiang Provincial Basic Research Project:</p>
+            <p>2024.01-2025.12 Performance Analysis and Optimization of Vehicular Ad Hoc Networks Based on Stochastic Geometry of SINR</p>
+            
+            <h2>Publications</h2>
+            <ol>
+                <li><strong>Zhijuan Li</strong>, Xintong Wu, Xiaokun Li, and Xiaomin Ma. Interference-based Reliability and Capacity Analysis for IEEE 802.11 Broadcast Ad-Hoc Networks on the Highway[C]. Proc. VEHITS, Apr. 2025, pp. 520-528.</li>
+                <li><strong>Zhijuan Li</strong>, Yanbin Wang, Jing Zhao. Reliability Evaluation of IEEE 802.11p Broadcast Ad Hoc Networks on the Highway[J]. IEEE Transactions on Vehicular Technology, 2022, 71(7): 7428-7444.</li>
+                <li>Jing Zhao, Hao Zhou, Yanbin Wang, Hualin Lu, <strong>Zhijuan Li</strong>, and Xiaomin Ma: Accelerating Interference-based QoS Analysis of Vehicular Ad Hoc Networks for BSM Safety Applications: Parallel Numerical Solutions and Simulations [C], Proc. VEHITS, Apr. 2021, pp. 600-610.</li>
+                <li>Jing Zhao, Yanbin Wang, Hualin Lu, <strong>Zhijuan Li</strong>, and Xiaomin Ma: Interference-Based QoS and Capacity Analysis of VANETs for Safety Applications [J]. IEEE Transactions on Vehicular Technology, 2021, 70(3):2448-2464.</li>
+                <li>Xiaomin Ma, Jing Zhao, Yanbin Wang, Tingyu Zhang, and <strong>Zhijuan Li</strong>: A New Approach to SINR-based Reliability Analysis of IEEE 802.11 Broadcast Ad Hoc Networks [J]. IEEE communication letters, 2020, 25(2): 651-655.</li>
+                <li>Yanbin Wang, Zhuofei Wu, Jing Zhao, <strong>Zhijuan Li</strong>, and Xiaomin Ma: Analysis and Adaptive Optimization of Vehicular Safety Message Communications at Intersections[J]. Ad Hoc Networks, 107, 2020: 1-16.</li>
+                <li>Jing Zhao, <strong>Zhijuan Li</strong>, Yanbin Wang, Zhuofei Wu, Xiaomin Ma, and Yue Zhao: An analytical framework for reliability evaluation of d-dimensional IEEE 802.11 broadcast wireless networks[J]. Wireless Networks, 26, 2020: 3373-3394.</li>
+                <li><strong>Zhijuan Li</strong>, Zhuofei Wu, Sijia Wang, Jing Zhao. Cloud Monitoring System Based on Data Analysis[J]. Command Information System and Technology, 2018,9(06):30-35.</li>
+                <li>Wei Wu, <strong>Zhijuan Li</strong>*, Yunan Zhang, Jianli Guo, and Jing Zhao: Design and Implementation of Distributed Broadcast Algorithm Based on Vehicle Density for VANET Safety-Related Messages[C]. International Conference of Pioneering Computer Scientists, Engineers and Educators. Springer Singapore, 2017:271-285</li>
+            </ol>
+            
+            <h2>Patents</h2>
+            <ol>
+                <li><strong>Zhijuan Li</strong>, Guohong Li, Sidong Zhang, Huiran Zhang, Zhuofei Wu, Yong Liu. Vehicle Density Estimation Method Based on Perception Message Broadcasting and Probability Derivation[P]. ZL202411496141.7, 2025-02-18.</li>
+                <li>Jing Zhao, <strong>Zhijuan Li</strong>, Yanbin Wang. Reliability Analysis Method for Vehicular Networks Based on Signal-to-Interference-plus-Noise Ratio[P]. ZL2019112259378,2021-07-16.</li>
+                <li>Zhuofei Wu, Jing Zhao, <strong>Zhijuan Li</strong>. Vehicle Navigation System and Method Based on Destination Status[P]. ZL201810870234X,2020-12-22.</li>
+                <li>Jing Zhao, Jintao Yang, <strong>Zhijuan Li</strong>. Data Competition Detection Method for Vehicle OBU[P]. ZL202010020788.8,2022-11-18.</li>
+                <li>Jing Zhao, Yanbin Wang, <strong>Zhijuan Li</strong>. Fog Computing-based Streaming Monitoring Analysis and Early Warning System and Method for Vehicles[P]. ZL2018107996562,2019-10-11.</li>
+                <li>Jing Zhao, Yanbin Wang, Yuliang Jin, <strong>Zhijuan Li</strong>, Wu Yang, Huiqiang Wang. Software Accelerated Life Testing Method[P]. ZL2013102893995, 2017-06-20.</li>
+                <li>Jing Zhao, Tianran Dong, Yanbin Wang, <strong>Zhijuan Li</strong>. SQL Injection Test Case Generation Method Based on Combined Mutation[P]. ZL202010029005.2,2022-11-18.</li>
+            </ol>
+            
+            <h2>Patent Applications</h2>
+            <ol>
+                <li><strong>Zhijuan Li</strong>, Yong Liu, Xiaokun Li. Reliability Analysis Method for One-dimensional IEEE 802.11p/bd Vehicular Networks Based on Stochastic Geometry Modeling[P]. CN116669087A, 2023-08-29.</li>
+                <li>Jing Zhao, Peipei Cui, <strong>Zhijuan Li</strong>, Liqun Sun. Vehicle Control Method, Terminal and Computer-readable Storage Medium[P]. CN202011252196.5, 2020-11-11.</li>
+                <li>Jing Zhao, Zhuofei Wu, Yanbin Wang, <strong>Zhijuan Li</strong>, Chenrui Ma, Tingrong Li, Yanzhao Tang. Automatic Heating Temperature Adjustment Method and System Based on MQTT[P]. CN109340886A,2019-02-15.</li>
+            </ol>
+            
+            <h2>Student Awards</h2>
+            <ol>
+                <li>Supervised students to win provincial gold award in 2024 "CCB Cup" China International College Students' Innovation Competition with project "Nano-Targeting: Small Molecule Targeted Drug Delivery System Based on Lipid Nanoparticles".</li>
+                <li>Supervised students to win provincial gold award in 14th ICBC "Challenge Cup" Heilongjiang Provincial College Student Business Plan Competition with project "High-NA EUV Lithography Machine Control System Driven by Large Models".</li>
+            </ol>
+            
+            <h2>Honors</h2>
+            <ol>
+                <li>Outstanding Instructor in 14th ICBC "Challenge Cup" Heilongjiang Provincial College Student Business Plan Competition.</li>
+            </ol>
+            
+            <h2>Contact</h2>
+            <p>Email: lizhijuan@hrbeu.edu.cn; lizhijuan@hlju.edu.cn</p>
+        </div>
+    </div>
+
+    <script>
+        function toggleLanguage() {
+            const chinese = document.getElementById('chinese');
+            const english = document.getElementById('english');
+            
+            if (chinese.style.display === 'block') {
+                chinese.style.display = 'none';
+                english.style.display = 'block';
+            } else {
+                chinese.style.display = 'block';
+                english.style.display = 'none';
+            }
+        }
+    </script>
+</body>
+</html>
