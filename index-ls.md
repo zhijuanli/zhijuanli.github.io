@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zhijuan Li（李志娟）</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1,
+        h2,
+        h3 {
+            color: #333;
+        }
+    
+        ul,
+        ol {
+            padding-left: 20px;
+        }
+    
+        p {
+            line-height: 1.6;
+        }
+    
+        button {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <button id="language-toggle">切换语言</button>
+    <div id="content-zh" style="display: block;">
+        <h1>李志娟</h1>
+        <h2>简介</h2>
+        <p>李志娟，黑龙江大学计算机科学技术学院、软件学院，博士，讲师，硕士生导师。哈尔滨工程大学计算机科学与技术专业博士，在站博士后。</p>
+        <p>研究方向包括新抗原预测、免疫抑制剂预后预测、交通流量预测、车联通信协议设计分析等。</p>
+        <p>已在TVT、Wireless Networks、Ad Hoc Networks、VEHITS等国内外著名期刊和国际会议上发表学术论文多篇，其中SCI检索7篇。授权国家发明专利7项，软件著作权2项。</p>
+        <p>主持黑龙江省省属高校基本科研业务费项目1项、黑龙江省博士后科研工作站人才引进项目1项、黑龙江大学校级重点课题1项；参与黑龙江大学校级培育课题1项；参与完成国家自然科学基金1项，预研重点子课题2项。</p>
+        <p>指导学生获2024年中国国际大学生创新大赛省级金奖、“挑战杯”竞赛省级金奖；指导本科、研究生获国家级、省级创新创业类项目立项2项；获优秀指导教师称号。</p>
+
+        <h3>主讲课程</h3>
+        <p>本科生课：《无线传感器网络》</p>
+        <p>研究生课：《高等计算机网络》</p>
+    
+        <h3>主持项目</h3>
+        <p>作为项目负责人，主持黑龙江省高校基本科研项目1项，</p>
+        <p>2024.01-2025.12 基于信干噪比随机几何的车载自组网性能分析优化研究</p>
+    
+        <h3>发表论文</h3>
+        <ol>
+            <li>李志娟, 吴昕桐, 李晓坤, 马晓敏. 基于干扰的IEEE 802.11广播自组织网络在高速公路上的可靠性和容量分析[C]. VEHITS会议论文集, 2025年4月, 第520-528页.</li>
+            <li>李志娟, 王延斌, 赵靖. 高速公路上IEEE 802.11p广播自组织网络的可靠性评估[J]. IEEE车辆技术汇刊, 2022, 71(7): 7428-7444.</li>
+            <li>赵靖, 周浩, 王延斌, 卢华林, 李志娟, 马晓敏: 加速基于干扰的车载自组织网络用于BSM安全应用的QoS分析: 并行数值解决方案和仿真[C], VEHITS会议论文集, 2021年4月, 第600-610页.</li>
+            <li>赵靖, 王延斌, 卢华林, 李志娟, 马晓敏: 用于安全应用的VANET基于干扰的QoS和容量分析[J]. IEEE车辆技术汇刊, 2021, 70(3):2448-2464.</li>
+            <li>马晓敏, 赵靖, 王延斌, 张庭宇, 李志娟: 一种基于SINR的IEEE 802.11广播自组织网络可靠性分析新方法[J]. IEEE通信快报, 2020, 25(2): 651-655.</li>
+            <li>王延斌, 吴卓霏, 赵靖, 李志娟, 马晓敏: 交叉路口车辆安全消息通信的分析和自适应优化[J]. 自组织网络, 107, 2020: 1-16.</li>
+            <li>赵靖, 李志娟, 王延斌, 吴卓霏, 马晓敏, 赵悦: 一种用于d维IEEE 802.11广播无线网络可靠性评估的分析框架[J]. 无线网络, 26, 2020: 3373-3394.</li>
+            <li>李志娟, 吴卓霏, 王思家, 赵靖. 基于数据分析的云监控系统[J]. 指挥信息系统与技术, 2018, 9(06): 30-35.</li>
+            <li>吴伟, 李志娟*, 张宇楠, 郭建丽, 赵靖: 基于车辆密度的VANET安全相关消息分布式广播算法的设计与实现[C]. 国际计算机科学家、工程师和教育工作者先锋会议. 新加坡施普林格, 2017：271-285</li>
+        </ol>
+    
+        <h3>授权专利</h3>
+        <ol>
+            <li>李志娟, 李国鸿, 张斯栋, 张慧冉, 吴卓霏, 刘勇. 一种基于感知消息广播和概率推导的车辆密度估计方法[P]. ZL202411496141.7, 2025-02-18.</li>
+            <li>赵靖, 李志娟, 王延斌. 一种基于信噪干扰比的车载网可靠性分析方法[P]. ZL2019112259378, 2021-07-16.</li>
+            <li>吴卓霏, 赵靖, 李志娟. 一种基于目的地状态的车辆导航系统和导航方法[P]. ZL201810870234X, 2020-12-22.</li>
+            <li>赵靖, 杨金涛, 李志娟. 一种车载OBU的数据竞争检测方法[P]. ZL202010020788.8, 2022-11-18.</li>
+            <li>赵靖, 王延斌, 李志娟. 一种基于雾计算的针对车辆的流式监测分析预警系统与方法[P]. ZL2018107996562, 2019-10-11.</li>
+            <li>赵靖, 王延斌, 靳瑜亮, 李志娟, 杨武, 王慧强. 一种软件加速生命测试方法[P]. ZL2013102893995, 2017-06-20.</li>
+            <li>赵靖, 董天冉, 王延斌, 李志娟. 基于组合变异的SQL注入测试用例生成方法[P]. ZL202010029005.2, 2022-11-18.</li>
+        </ol>
+    
+        <h3>申请专利</h3>
+        <ol>
+            <li>李志娟, 刘勇, 李晓坤. 一种基于随机几何建模的针对一维IEEE 802.11p/bd车载网的可靠性分析方法[P]. CN116669087A, 2023-08-29.</li>
+            <li>赵靖, 崔佩佩, 李志娟, 孙丽群. 车辆行驶的控制方法、终端以及计算机可读存储介质[P]. CN202011252196.5, 2020-11-11.</li>
+            <li>赵靖, 吴卓霏, 王延斌, 李志娟, 马晨瑞, 李汀榕, 唐彦昭. 一种基于MQTT的暖气温度自动调节方法及系统[P]. CN109340886A, 2019-02-15.</li>
+        </ol>
+    
+        <h3>指导获奖</h3>
+        <ol>
+            <li>指导学生参加“建行杯”中国国际大学生创新大赛（2024），《纳精靶向—基于脂质纳米颗粒的小分子靶向药物递送系统》获省级金奖.</li>
+            <li>指导学生参加第十四届工银融e行“挑战杯”黑龙江省大学生创业计划竞赛（2024），《基于大模型驱动高数值孔径EUV光刻机控制系统》获省级金奖.</li>
+        </ol>
+    
+        <h3>荣誉称号</h3>
+        <ol>
+            <li>第十四届工银融e行“挑战杯”黑龙江省大学生创业计划竞赛优秀指导教师.</li>
+        </ol>
+    
+        <h3>联系</h3>
+        <p>Email: lizhijuan@hrbeu.edu.cn；lizhijuan@hlju.edu.cn</p>
+    </div>
+    <div id="content-en" style="display: none;">
+        <h1>Zhijuan Li</h1>
+        <h2>Introduction</h2>
+        <p>Zhijuan Li, School of Computer Science and Technology, School of Software, Heilongjiang University, Ph.D., Lecturer, Master's Supervisor. Ph.D. in Computer Science and Technology from Harbin Engineering University, and a postdoctoral fellow.</p>
+        <p>Research directions include neoantigen prediction, prognosis prediction of immunosuppressants, traffic flow prediction, design and analysis of vehicle communication protocols, etc.</p>
+        <p>She has published several academic papers in well-known domestic and international journals and international conferences such as TVT, Wireless Networks, Ad Hoc Networks, VEHITS, etc., among which 7 are retrieved by SCI. She has been authorized 7 national invention patents and 2 software copyrights.</p>
+        <p>She has presided over 1 basic scientific research business project of provincial universities in Heilongjiang Province, 1 talent introduction project of the postdoctoral research workstation in Heilongjiang Province, and 1 key project at the university level of Heilongjiang University; participated in 1 cultivation project at the university level of Heilongjiang University; participated in the completion of 1 National Natural Science Foundation project and 2 key sub-projects of pre-research.</p>
+        <p>Guided students to win the provincial gold award in the 2024 China International College Students Innovation Competition and the provincial gold award in the "Challenge Cup" competition; guided undergraduate and graduate students to obtain 2 national and provincial innovation and entrepreneurship project approvals; and won the title of Excellent Instructor.</p>
+    
+        <h3>Lectured Courses</h3>
+        <p>Undergraduate Course: "Wireless Sensor Networks"</p>
+        <p>Graduate Course: "Advanced Computer Networks"</p>
+    
+        <h3>Presided Projects</h3>
+        <p>As the project leader, presided over 1 basic scientific research project of colleges and universities in Heilongjiang Province,</p>
+        <p>2024.01-2025.12 Performance Analysis and Optimization of Vehicular Ad Hoc Networks Based on Stochastic Geometry of Signal-to-Interference-plus-Noise Ratio</p>
+    
+        <h3>Published Papers</h3>
+        <ol>
+            <li>**Zhijuan Li**, Xintong Wu, Xiaokun Li, and Xiaomin Ma. Interference-based Reliability and Capacity Analysis for IEEE 802.11 Broadcast Ad-Hoc Networks	on the Highway[C]. Proc. VEHITS, Apr. 2025, pp. 520-528.</li>
+            <li>**Zhijuan Li**, Yanbin Wang, Jing Zhao. Reliability Evaluation of IEEE 802.11p Broadcast Ad Hoc Networks on the Highway[J]. IEEE Transactions on Vehicular Technology, 2022, 71(7): 7428-7444. </li>
+            <li>Jing Zhao, Hao Zhou, Yanbin Wang, Hualin Lu, **Zhijuan Li**, and Xiaomin Ma: Accelerating Interference-based QoS Analysis of Vehicular Ad Hoc Networks for BSM Safety Applications: Parallel Numerical Solutions and Simulations [C], Proc. VEHITS, Apr. 2021, pp. 600-610.</li>
+            <li>Jing Zhao, Yanbin Wang, Hualin Lu, **Zhijuan Li**, and Xiaomin Ma: Interference-Based QoS and Capacity Analysis of VANETs for Safety Applications [J]. IEEE Transactions on Vehicular Technology, 2021, 70(3):2448-2464.</li>
+            <li>Xiaomin Ma, Jing Zhao, Yanbin Wang, Tingyu Zhang, and **Zhijuan Li**: A New Approach to SINR-based Reliability Analysis of IEEE 802.11 Broadcast Ad Hoc Networks [J]. IEEE communication letters, 2020, 25(2): 651-655.</li>
+            <li>Yanbin Wang, Zhuofei Wu, Jing Zhao, **Zhijuan Li**, and Xiaomin Ma: Analysis and Adaptive Optimization of Vehicular Safety Message Communications at Intersections[J]. Ad Hoc Networks, 107, 2020: 1-16.</li>
+            <li>Jing Zhao, **Zhijuan Li**, Yanbin Wang, Zhuofei Wu, Xiaomin Ma, and Yue Zhao: An analytical framework for reliability evaluation of d-dimensional IEEE 802.11 broadcast wireless networks[J]. Wireless Networks, 26, 2020: 3373-3394.</li>
+            <li>**Zhijuan Li**, Zhuofei Wu, Sijia Wang, Jing Zhao. Cloud Monitoring System Based on Data Analysis[J]. Command Information System and Technology, 2018, 9(06): 30-35.</li>
+            <li>Wei Wu, **Zhijuan Li***, Yunan Zhang, Jianli Guo, and Jing Zhao: Design and Implementation of Distributed Broadcast Algorithm Based on Vehicle Density for VANET Safety-Related Messages[C].International Conference of Pioneering Computer Scientists, Engineers and Educators. Springer Singapore, 2017：271-285</li>
+        </ol>
+    
+        <h3>Authorized Patents</h3>
+        <ol>
+            <li>**Zhijuan Li**, Guohong Li, Sidong Zhang, Huiran Zhang, Zhuofei Wu, Yong Liu. A Vehicle Density Estimation Method Based on Perception Message Broadcasting and Probability Deduction [P]. ZL202411496141.7, 2025-02-18.</li>
+            <li>Jing Zhao, **Zhijuan Li**, Yanbin Wang. A Method for Analyzing the Reliability of Vehicular Networks Based on Signal-to-Noise and Interference Ratio [P]. ZL2019112259378, 2021-07-16.</li>
+            <li>Zhuofei Wu, Jing Zhao, **Zhijuan Li**. A Vehicle Navigation System and Navigation Method Based on Destination Status [P]. ZL201810870234X, 2020-12-22.</li>
+            <li>Jing Zhao, Jintao Yang, **Zhijuan Li**. A Data Competition Detection Method for In-Vehicle OBU [P]. ZL202010020788.8, 2022-11-18.</li>
+            <li>Jing Zhao, Yanbin Wang, **Zhijuan Li**. A Streaming Monitoring, Analysis and Early Warning System and Method for Vehicles Based on Fog Computing [P]. ZL2018107996562, 2019-10-11.</li>
+            <li>Jing Zhao, Yanbin Wang, Yuliang Jin, **Zhijuan Li**, Wu Yang, Huiqiang Wang. A Software Accelerated Life Test Method [P]. ZL2013102893995, 2017-06-20.</li>
+            <li>Jing Zhao, Tianran Dong, Yanbin Wang, **Zhijuan Li**. A Method for Generating SQL Injection Test Cases Based on Combined Variation [P]. ZL202010029005.2, 2022-11-18.</li>
+        </ol>
+    
+        <h3>Applied Patents</h3>
+        <ol>
+            <li>**Zhijuan Li**, Yong Liu, Xiaokun Li. A Method for Reliability Analysis of One-Dimensional IEEE 802.11p/bd Vehicular Networks Based on Stochastic Geometry Modeling [P]. CN116669087A, 2023-08-29.</li>
+            <li>Jing Zhao, Peipei Cui, **Zhijuan Li**, Liqun Sun. A Vehicle Driving Control Method, Terminal, and Computer-Readable Storage Medium [P]. CN202011252196.5, 2020-11-11.</li>
+            <li>Jing Zhao, Zhuofei Wu, Yanbin Wang, **Zhijuan Li**, Chenrui Ma, Tingrong Li, Yanzhao Tang. An Automatic Heating Temperature Adjustment Method and System Based on MQTT [P]. CN109340886A, 2019-02-15.</li>
+        </ol>
+    
+        <h3>Guided Awards</h3>
+        <ol>
+            <li>Guided students to participate in the "China Construction Bank Cup" China International College Students Innovation Competition (2024), and the project "Nanoparticle-Enhanced Targeted Delivery System for Small Molecule Targeted Drugs Based on Lipid Nanoparticles" won the provincial gold award.</li>
+            <li>Guided students to participate in the 14th Industrial and Commercial Bank of China Rong e-Hang "Challenge Cup" Heilongjiang Provincial College Students' Entrepreneurship Plan Competition (2024), and the project "High Numerical Aperture EUV Lithography Machine Control System Driven by Large Models" won the provincial gold award.</li>
+        </ol>
+    
+        <h3>Honorary Titles</h3>
+        <ol>
+            <li>Excellent Instructor in the 14th Industrial and Commercial Bank of China Rong e-Hang "Challenge Cup" Heilongjiang Provincial College Students' Entrepreneurship Plan Competition.</li>
+        </ol>
+    
+        <h3>Contact</h3>
+        <p>Email: lizhijuan@hrbeu.edu.cn; lizhijuan@hlju.edu.cn</p>
+    </div>
+    <script>
+        const languageToggle = document.getElementById('language-toggle');
+        const contentZh = document.getElementById('content-zh');
+        const contentEn = document.getElementById('content-en');
+    
+        languageToggle.addEventListener('click', function () {
+            if (contentZh.style.display === 'block') {
+                contentZh.style.display = 'none';
+                contentEn.style.display = 'block';
+            } else {
+                contentZh.style.display = 'block';
+                contentEn.style.display = 'none';
+            }
+        });
+    </script>
+</body>
+
+</html>    
